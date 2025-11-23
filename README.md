@@ -58,7 +58,7 @@
   <p><i>⚠️ You noticed a weird chest in the corner... Tap to open!</i></p>
   <details>
     <summary style="cursor: pointer; display: inline-block;">
-       <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzB0bjluMXQ3M3U4cHR2ajlkdjA1ZzNnNmM4bjgzNzZ1c3BocHE0ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eAsokJ89TqIYM/giphy.gif" width="120" alt="Treasure Chest" title="Click to Open!" />
+       <span style="font-size: 120px; cursor: pointer; display: inline-block; animation: pulse 2s infinite;" title="Click to Open!">📦</span>
     </summary>
     <div style="margin-top: 15px; border: 2px dashed #FFD700; padding: 10px; border-radius: 8px; background-color: #1a1a1a;">
       <h3>🎉 ITEM ACQUIRED! 🎉</h3>
