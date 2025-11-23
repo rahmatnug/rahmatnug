@@ -58,7 +58,7 @@
   <p><i>⚠️ You noticed a weird chest in the corner... Tap to open!</i></p>
   <details>
     <summary style="cursor: pointer; display: inline-block;">
-       <span style="font-size: 120px; cursor: pointer; display: inline-block; animation: pulse 2s infinite;" title="Click to Open!">📦</span>
+       <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="120" alt="Treasure Chest" title="Click to Open! This is a GitHub Octocat - your treasure!" style="border-radius: 10px; border: 2px solid #FFD700; cursor: pointer; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
     </summary>
     <div style="margin-top: 15px; border: 2px dashed #FFD700; padding: 10px; border-radius: 8px; background-color: #1a1a1a;">
       <h3>🎉 ITEM ACQUIRED! 🎉</h3>
