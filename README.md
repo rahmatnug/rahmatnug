@@ -6,7 +6,7 @@
 
   <h1> LEVEL UP! Welcome to Rahmat's Base. 👾 </h1>
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=F7B731&center=true&vCenter=true&width=500&lines=Software+Engineer;Full-time+Wibu;Rank+S+Gamer;Code+Adventurer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&color=F7B731&center=true&vCenter=true&width=500&lines=Software+Engineer;Full-time+Wibu;Rank+S+Gamer;Code+Adventurer" alt="Typing SVG" />
 
   <br/>
 
@@ -19,7 +19,18 @@
     </a>
   </p>
   
-  Currently playing: <b>VS Code</b> & <b>Life RPG</b> <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" style="text-decoration:none;">🎮</a>
+  Currently playing: <b>VS Code</b> & <b>Life RPG</b> 
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" style="text-decoration:none; cursor:help;">
+    🎮
+  </a>
+  
+  <br/><br/>
+
+  <h3>📡 Live Status Signal</h3>
+  <a href="https://discord.com/users/762562798189281301">
+    <img src="https://lanyard.cnrad.dev/api/762562798189281301?theme=dark&bg=0D1117&animated=true&hide_discrim=true" alt="Discord Presence" />
+  </a>
+
 </div>
 
 ---
@@ -40,13 +51,13 @@ _Ular ini memakan kontribusi coding saya setiap hari!_
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
 ---
 
-### 📜 Quest Log (Latest Projects)
+### 📜 Quest Log (Projects)
 
 | Quest Name            |  Class (Tech)   |     Status     |
 | :-------------------- | :-------------: | :------------: |
@@ -56,10 +67,10 @@ _Ular ini memakan kontribusi coding saya setiap hari!_
 
 ---
 
-### ⛩️ Random Anime Quote
+### ⛩️ Anime Wisdom
 
 <div align="center">
-  <img src="https://github-readme-anime-quotes.vercel.app/api/quote?theme=dark" alt="Anime Quote">
+  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=18&duration=4000&pause=1000&color=9e86c8&center=true&vCenter=true&width=435&lines=People+die+if+they+are+killed...;Omae+wa+mou+shindeiru.;El+Psy+Kongroo.;Hard+work+betrays+none..." alt="Anime Quotes" />
 </div>
 
 <br/>
